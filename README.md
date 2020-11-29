@@ -66,6 +66,7 @@ Skills used:
 ### Support Technitian (Barcelona, Spain)
 #### June 2018 - October 2018 (4 months)
 ![Stucom](https://landing.stucom.com/imgs/logos/STUCOM-mini.png)
+<br>
 Internship in the Center of studies STUCOM as in the Department of ICT Services.
 I was solving computer issues:
 - Changed peripherals
