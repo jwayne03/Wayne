@@ -18,5 +18,5 @@
 ![english](https://img.shields.io/badge/-english-blue)
 
 ### Get in touch
-- [💼 LinkedIn](https://www.linkedin.com/in/nicos-fabro/)
-- 📩 nicosfabroc@gmail.com
+- [💼 LinkedIn](https://www.linkedin.com/in/john-wayne-carreon-beco-84b966162/)
+- 📩 johnwayne.carreon@gmail.com
