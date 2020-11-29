@@ -12,7 +12,7 @@
 ![sql](https://img.shields.io/badge/-sql-9cf)
 ![github](https://img.shields.io/badge/-github-black)
 
-### Idioms
+### Languages
 ![spanish](https://img.shields.io/badge/-spanish-red)
 ![catalan](https://img.shields.io/badge/-catalan-yellow)
 ![english](https://img.shields.io/badge/-english-blue)
