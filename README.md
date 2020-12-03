@@ -9,8 +9,6 @@ My name is John Wayne Carreon Beco, I'm that person who is constantly motivated 
 
 
 <img align="left" alt="Java" width="50px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />
-<img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
 <img align="left" alt="Swift" width="50px" src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" />
 <!-- <img align="left" alt="Python" width="50px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" /> -->
 <!-- <img align="left" alt="C" width="50px" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" /> -->
