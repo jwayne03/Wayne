@@ -7,27 +7,6 @@
 
 My name is John Wayne Carreon Beco, I'm that person who is constantly motivated to learn something new and a proactive person.
 
-
-<img align="left" alt="Java" width="50px" src="https://devicon.dev/devicon.git/icons/java/java-original.svg" />
-<img align="left" alt="Swift" width="50px" src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" />
-<!-- <img align="left" alt="Python" width="50px" src="https://devicon.dev/devicon.git/icons/python/python-original.svg" /> -->
-<!-- <img align="left" alt="C" width="50px" src="https://devicon.dev/devicon.git/icons/c/c-original.svg" /> -->
-<img align="left" alt="JavaScript" width="50px" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" />
-<img align="left" alt="MySQL" width="50px" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" />
-<!-- <img align="left" alt="PostgtreSQL" width="50px" src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-plain.svg" /> -->
-<img align="left" alt="Markdown" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="GitHub" width="50px" src="https://devicon.dev/devicon.git/icons/github/github-original.svg" />
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Android Studio" width="50px" src="https://devicon.dev/devicon.git/icons/android/android-plain.svg" />
-<img align="left" alt="XCode" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<!-- <img align="left" alt="AWS" width="50px" src="https://devicon.dev/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" /> -->
-<!-- <img align="left" alt="Docker" width="50px" src="https://devicon.dev/devicon.git/icons/docker/docker-plain.svg" /> -->
-<img align="left" alt="Brave" width="50px" src="https://avatars1.githubusercontent.com/u/12301619?s=200&v=4" />
-<!-- <img align="left" alt="Grafana" width="50px" src="https://grafana.com/static/img/logos/grafana_logo_swirl-events.svg" /> -->
-<!-- <img align="left" alt="InfluxDB" width="50px" src="https://influxdata.github.io/branding/img/downloads/influxdata-logo--symbol--pool.svg" /> -->
-<img align="left" alt="Windows" width="50px" src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" />
-<img align="left" alt="MacOS" width="50px" src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" />
-<img align="left" alt="Linux" width="50px" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" />
 <br><br>
 
 
